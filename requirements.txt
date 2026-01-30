@@ -1,0 +1,25 @@
+# General
+pandas
+numpy
+python-dotenv
+
+# Person 2: Quantitative Analysis
+scipy
+statsmodels
+openpyxl
+
+# Person 2: Qualitative Analysis (NLP)
+sentence-transformers
+spacy
+textblob
+langdetect
+
+# Person 2: Vector DB & RAG
+chromadb
+faiss-cpu
+
+# Person 3: UI & Integration
+streamlit
+requests
+fastapi
+uvicorn
