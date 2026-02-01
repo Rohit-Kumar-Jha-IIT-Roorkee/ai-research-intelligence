@@ -82,6 +82,6 @@ ai-research-intelligence/
 
 ## 👥 Team Members
 
-**Suchet Goel**
-**Rohit Kumar Jha**
-**Vaishnavi Shinde**
+* **Suchet Goel**
+* **Rohit Kumar Jha**
+* **Vaishnavi Shinde**
