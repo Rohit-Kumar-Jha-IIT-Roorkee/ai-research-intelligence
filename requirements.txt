@@ -1,9 +1,19 @@
-# General
+# General & Environment
 pandas
 numpy
 python-dotenv
+typing-extensions
 
-# Person 2: Quantitative Analysis
+# Person 1: Agent Reasoning & Orchestration
+langchain
+langchain-core
+langchain-community
+langchain-openai
+openai
+pydantic
+tiktoken
+
+# Person 2: Quantitative Analysis & Stats
 scipy
 statsmodels
 openpyxl
@@ -13,6 +23,11 @@ sentence-transformers
 spacy
 textblob
 langdetect
+scikit-learn
+
+# Person 2: Visualization (For Goal 3 Heatmaps/Journey Maps)
+matplotlib
+seaborn
 
 # Person 2: Vector DB & RAG
 chromadb
