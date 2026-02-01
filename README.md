@@ -2,6 +2,8 @@
 
 > **From Chaos to Clarity: An End-to-End Autonomous Market Research Analyst**
 
+[![Watch the Demo Video](https://img.youtube.com/vi/jdya12Ro2Jk/0.jpg)](https://youtu.be/jdya12Ro2Jk)
+
 ## 📖 Overview
 
 This project is not just a chatbot; it is a **Research-First Decision Support System**. It automates the messy, fragmented workflow of market research by unifying qualitative data (transcripts, feedback) and quantitative data (CSVs, metrics) into a single intelligent engine.
